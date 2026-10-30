@@ -1,0 +1,67 @@
+body {
+    background-color: rgb(227, 199, 161);
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+}
+
+h1 {
+   text-align: center;
+}
+
+h1, h2 {
+     color: rgb(4, 110, 4);
+}
+
+
+.tagline {
+     color: black;
+}
+
+.note {
+    color: rgb(4, 110, 4);
+}
+
+
+ul {
+    background-color: khaki;
+    border: 2mm;
+    border-radius: 18px;
+}
+
+
+#Best-seller {
+    
+    border-radius: 18px;
+    border: 2px solid green;
+    margin: 20 20;
+}
+
+img {
+    background-color: green;
+    border-radius: 18px;
+    outline-color: green;
+    outline: 10px;
+}
+
+a {
+    color: darkgreen;
+}
+
+iframe {
+    background-color: green;
+    border: 10px;
+    border-radius: 18px;
+    outline: auto;
+}
+
+.Gmap {
+    background-color: khaki;
+    border: 20px;
+    border-radius: 10px;
+    outline: auto;
+}
+
+
+
+
+
